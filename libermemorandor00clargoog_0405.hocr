@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./libermemorandor00clargoog/libermemorandor00clargoog_0405.png"; bbox 0 0 3234 5059; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 738 907 1044 985">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 738 907 1044 985">
+     <span class='ocr_line' id='line_1_1' title="bbox 1017 907 1025 928; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1017 907 1025 928; x_wconf 65' lang='grc' dir='ltr'>ἱ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 738 947 1044 985; baseline -0.003 0"><span class='ocrx_word' id='word_1_2' title='bbox 738 948 971 985; x_wconf 53' lang='lat' dir='ltr'>bumannum</span> <span class='ocrx_word' id='word_1_3' title='bbox 1017 947 1044 985; x_wconf 59' lang='lat' dir='ltr'>A.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 776 1082 899 1119">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 776 1082 899 1119">
+     <span class='ocr_line' id='line_1_3' title="bbox 776 1082 899 1119; baseline 0.016 -4"><span class='ocrx_word' id='word_1_4' title='bbox 776 1082 899 1119; x_wconf 67' lang='grc' dir='ltr'>ΗΗΗΟ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 703 1198 932 1239">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 703 1198 932 1239">
+     <span class='ocr_line' id='line_1_4' title="bbox 703 1198 932 1239; baseline 0.017 -4"><span class='ocrx_word' id='word_1_5' title='bbox 703 1198 932 1239; x_wconf 62' lang='lat' dir='ltr'>&#39;munitm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1622 5059">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1622 5059">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1622 5059; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1622 5059; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
